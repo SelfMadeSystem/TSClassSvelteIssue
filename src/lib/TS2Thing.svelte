@@ -1,6 +1,6 @@
 <script context="module" lang="ts">
     export class Thing {
-        public name: string;
+        public name: string; // Unexpected token?
         constructor(name: string) {
             this.name = name;
         }
