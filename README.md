@@ -1,3 +1,3 @@
 # TSClassSvelteIssue
 
-Issue regarding classes withing modules with Typescript in Svelte.
+Issue regarding classes within modules with Typescript in Svelte.
